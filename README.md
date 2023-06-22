@@ -24,12 +24,6 @@
 - (опционально) Вместо Github Pages можно использовать любой доступный сервис для публикации вебресурсов.
 
 
-## Макеты для практики
-#### Оценка знаний верстки и качества кода HTML/CSS
-- [Mockup 1](https://www.figma.com/file/eOWwwvjcB8hFIOC3yx2Hwc/tour-and-travel-website-for-figma?node-id=0%3A1&t=l5EMWdmsgo6HFo6C-0)
-- [Mockup 2](https://www.figma.com/file/HbQE7KDbfSfqOEowcKz5O1/Untitled?node-id=0%3A1&t=xLqihyWkzSKsjiNM-0)
-- [Mockup 3](https://www.figma.com/file/gBObzdn16Asemn3YSqDdFk/Chat-Desktop-App-macOS?t=lPAMly49h04AfVc7-0)
-
 ## Блок 1.1: Введение
 #### Работа с гит
 - [Базовый курс по Git](https://www.youtube.com/playlist?list=PLIU76b8Cjem5B3sufBJ_KFTpKkMEvaTQR)
