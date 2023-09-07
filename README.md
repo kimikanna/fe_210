@@ -38,3 +38,27 @@
 - Встроенные инструменты VSCode
 - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 - [GitGraph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
+
+#### Первые шаги в JS
+- [Введение](https://learn.javascript.ru/intro)
+- [Переменные](https://learn.javascript.ru/variables)
+- [Типы данных](https://learn.javascript.ru/types)
+- [Приведение типов](https://learn.javascript.ru/type-conversions)
+- [Операторы](https://learn.javascript.ru/operators)
+- [Операторы сравнения](https://learn.javascript.ru/comparison)
+- [Логические операторы](https://learn.javascript.ru/logical-operators)
+
+#### Практическое задание
+В каталоге first-steps находится файл с подготовленными примерами. Твоя задача сначала подумать, что каждая строчка выведет в консоль. Для удобства можно записывать на этой же строке комментарием.
+
+######Пример:
+```console.log(1 + 2) // 3```
+
+После того как проставите свои варианты ответа. Попробуйте запустить каждый пример по отдельности. Самым простым способом будет открыть консоль разработчика в браузере (F12 -> вкладка Console) и вводить туда скопированные примеры.
+Для тех кто уже знаком с node.js можно запускать команду ```node <имя файла>.js``` для того чтобы запустить скрипт с помощью ноды.
+Но наиболее рекомендуемый это поставить плагин [Quokka](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode) который облегчит вам работу с консолью. Достаточно нажать сочетание клавиш ```Cmd/Ctrl + K``` затем отпустив эту комбинацию нажать клавишу ```Q```. Вам выведутся ответы в режиме реального времени.
+
+#### Темы для ревью
+- Типы данных
+- Приведение типов
+- Объяснить результат каждого примера из практического задания
